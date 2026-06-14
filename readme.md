@@ -1,5 +1,7 @@
 # GoCMS 内容管理系统 - 使用手册
 
+演示地址[ Eagle-Gocms](https://gocms.eagleclouds.com)
+
 ## 目录
 
 1. [系统概述](#1-系统概述)
